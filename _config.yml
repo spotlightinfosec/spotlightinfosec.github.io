@@ -1,0 +1,17 @@
+# Site settings
+title: Spotlight Infosec
+email: info@spotlight-infosec.com
+url: https://spotlight-infosec.com
+description: "Spotlight Infosec LLC provides custom Open Source Intelligence (OSINT) and cyber security solutions to enable our customers to achieve their goals."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: (C) Spotlight Infosec 2018
+
+# Build settings
+markdown: kramdown
+permalink: pretty
