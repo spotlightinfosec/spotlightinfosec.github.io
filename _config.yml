@@ -1,8 +1,9 @@
 # Site settings
-title: Spotlight Infosec
+title: Spotlight Infosec OSINT/Cyber Consultants
 email: info@spotlight-infosec.com
-url: https://spotlight-infosec.com
-description: "Spotlight Infosec LLC provides custom Open Source Intelligence (OSINT) and cyber security solutions to enable our customers to achieve their goals."
+url: https://www.spotlight-infosec.com
+description: "Spotlight Infosec provides custom Open Source Intelligence (OSINT) and cyber security solutions to enable our customers to achieve their goals. Micah Hoffman, owner, is the author of the SANS Institute SEC487 course and has years of experience in cyber security and Open Source Investigations."
+keywords: "SANS,OSINT,SEC487,open source intelligence,open source,intelligence,socmint,social media intelligence,osint training,cyber,cyber security,cyber training,osint investigation,python"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
