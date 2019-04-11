@@ -41,6 +41,7 @@ li {
     font-size: 18px;
     line-height: 1.5;
 }
+
 @media(min-width:767px) {
     p {
         margin: 0 0 35px;
